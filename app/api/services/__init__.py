@@ -1,0 +1,1 @@
+"""Services package for Pokemon application""" 

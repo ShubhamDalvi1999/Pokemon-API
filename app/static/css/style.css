@@ -1,0 +1,50 @@
+.endpoint-card {
+    margin-bottom: 20px;
+    transition: transform 0.2s;
+}
+
+.endpoint-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+}
+
+.method-badge {
+    width: 60px;
+}
+
+pre {
+    background-color: #f8f9fa;
+    padding: 15px;
+    border-radius: 5px;
+    max-height: 400px;
+    overflow-y: auto;
+}
+
+.select2-container {
+    width: 100% !important;
+}
+
+.pokemon-image-container {
+    display: flex;
+    gap: 10px;
+    margin: 10px 0;
+    flex-wrap: wrap;
+}
+
+.pokemon-image-box {
+    border: 1px solid #ddd;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.pokemon-image {
+    max-width: 120px;
+    max-height: 120px;
+}
+
+.image-label {
+    font-size: 0.8em;
+    margin-top: 5px;
+    color: #666;
+} 
