@@ -2,6 +2,8 @@
 
 A Flask-based REST API that serves as a wrapper for the PokéAPI, providing both REST and GraphQL endpoints for accessing Pokemon data.
 
+![image](https://github.com/user-attachments/assets/395d1e8c-42f5-4d5b-83bf-8a56f896aa40)
+
 ## Setup
 
 1. Clone the repository:
